@@ -6,6 +6,7 @@ function createWindow () {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
 
+
     width: 10,
     height: 20,
 
